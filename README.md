@@ -1,4 +1,4 @@
-# metric-imperial-unit-conversion
+# pretty metric-imperial-unit-conversion
  
 this program will convert your input from metric to imperial units!
 
